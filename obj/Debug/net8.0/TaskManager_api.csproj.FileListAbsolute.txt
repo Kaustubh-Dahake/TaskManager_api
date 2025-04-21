@@ -45,3 +45,4 @@ C:\Users\Kaustubh.Dahake\Desktop\Forpatch\UAT_Deploymentpatch\TaskManager_140420
 C:\Users\Kaustubh.Dahake\Desktop\Forpatch\UAT_Deploymentpatch\TaskManager_14042025\TaskManager_14042025\TaskManager_api\TaskManager_api\obj\Debug\net8.0\TaskManager_api.pdb
 C:\Users\Kaustubh.Dahake\Desktop\Forpatch\UAT_Deploymentpatch\TaskManager_14042025\TaskManager_14042025\TaskManager_api\TaskManager_api\obj\Debug\net8.0\TaskManager_api.genruntimeconfig.cache
 C:\Users\Kaustubh.Dahake\Desktop\Forpatch\UAT_Deploymentpatch\TaskManager_14042025\TaskManager_14042025\TaskManager_api\TaskManager_api\obj\Debug\net8.0\ref\TaskManager_api.dll
+C:\Users\Kaustubh.Dahake\Desktop\Forpatch\UAT_Deploymentpatch\TaskManager_14042025\TaskManager_14042025\TaskManager_api\TaskManager_api\obj\Debug\net8.0\TaskManager_api.sourcelink.json

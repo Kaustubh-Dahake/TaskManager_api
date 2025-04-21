@@ -3,16 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\Kaustubh.Dahake\\Desktop\\Forpatch\\UAT_Deploymentpatch\\TaskManager_14042025\\TaskManager_14042025\\TaskManager_api\\TaskManager_api\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A8D8E673-95C2-4DF9-A563-6F88D2AA3DBB}|TaskManager_api.csproj|c:\\users\\kaustubh.dahake\\desktop\\forpatch\\uat_deploymentpatch\\taskmanager_14042025\\taskmanager_14042025\\taskmanager_api\\taskmanager_api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{A8D8E673-95C2-4DF9-A563-6F88D2AA3DBB}|TaskManager_api.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{A8D8E673-95C2-4DF9-A563-6F88D2AA3DBB}|TaskManager_api.csproj|c:\\users\\kaustubh.dahake\\desktop\\forpatch\\uat_deploymentpatch\\taskmanager_14042025\\taskmanager_14042025\\taskmanager_api\\taskmanager_api\\controllers\\taskscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8D8E673-95C2-4DF9-A563-6F88D2AA3DBB}|TaskManager_api.csproj|solutionrelative:controllers\\taskscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8D8E673-95C2-4DF9-A563-6F88D2AA3DBB}|TaskManager_api.csproj|c:\\users\\kaustubh.dahake\\desktop\\forpatch\\uat_deploymentpatch\\taskmanager_14042025\\taskmanager_14042025\\taskmanager_api\\taskmanager_api\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8D8E673-95C2-4DF9-A563-6F88D2AA3DBB}|TaskManager_api.csproj|solutionrelative:services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A8D8E673-95C2-4DF9-A563-6F88D2AA3DBB}|TaskManager_api.csproj|c:\\users\\kaustubh.dahake\\desktop\\forpatch\\uat_deploymentpatch\\taskmanager_14042025\\taskmanager_14042025\\taskmanager_api\\taskmanager_api\\services\\taskservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A8D8E673-95C2-4DF9-A563-6F88D2AA3DBB}|TaskManager_api.csproj|solutionrelative:services\\taskservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A8D8E673-95C2-4DF9-A563-6F88D2AA3DBB}|TaskManager_api.csproj|c:\\users\\kaustubh.dahake\\desktop\\forpatch\\uat_deploymentpatch\\taskmanager_14042025\\taskmanager_14042025\\taskmanager_api\\taskmanager_api\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A8D8E673-95C2-4DF9-A563-6F88D2AA3DBB}|TaskManager_api.csproj|solutionrelative:services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A8D8E673-95C2-4DF9-A563-6F88D2AA3DBB}|TaskManager_api.csproj|c:\\users\\kaustubh.dahake\\desktop\\forpatch\\uat_deploymentpatch\\taskmanager_14042025\\taskmanager_14042025\\taskmanager_api\\taskmanager_api\\models\\authresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8D8E673-95C2-4DF9-A563-6F88D2AA3DBB}|TaskManager_api.csproj|solutionrelative:models\\authresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8D8E673-95C2-4DF9-A563-6F88D2AA3DBB}|TaskManager_api.csproj|c:\\users\\kaustubh.dahake\\desktop\\forpatch\\uat_deploymentpatch\\taskmanager_14042025\\taskmanager_14042025\\taskmanager_api\\taskmanager_api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A8D8E673-95C2-4DF9-A563-6F88D2AA3DBB}|TaskManager_api.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A8D8E673-95C2-4DF9-A563-6F88D2AA3DBB}|TaskManager_api.csproj|c:\\users\\kaustubh.dahake\\desktop\\forpatch\\uat_deploymentpatch\\taskmanager_14042025\\taskmanager_14042025\\taskmanager_api\\taskmanager_api\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -27,16 +35,8 @@
       "RelativeMoniker": "D:0:0:{A8D8E673-95C2-4DF9-A563-6F88D2AA3DBB}|TaskManager_api.csproj|solutionrelative:models\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A8D8E673-95C2-4DF9-A563-6F88D2AA3DBB}|TaskManager_api.csproj|c:\\users\\kaustubh.dahake\\desktop\\forpatch\\uat_deploymentpatch\\taskmanager_14042025\\taskmanager_14042025\\taskmanager_api\\taskmanager_api\\models\\authresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A8D8E673-95C2-4DF9-A563-6F88D2AA3DBB}|TaskManager_api.csproj|solutionrelative:models\\authresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A8D8E673-95C2-4DF9-A563-6F88D2AA3DBB}|TaskManager_api.csproj|c:\\users\\kaustubh.dahake\\desktop\\forpatch\\uat_deploymentpatch\\taskmanager_14042025\\taskmanager_14042025\\taskmanager_api\\taskmanager_api\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A8D8E673-95C2-4DF9-A563-6F88D2AA3DBB}|TaskManager_api.csproj|solutionrelative:data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A8D8E673-95C2-4DF9-A563-6F88D2AA3DBB}|TaskManager_api.csproj|c:\\users\\kaustubh.dahake\\desktop\\forpatch\\uat_deploymentpatch\\taskmanager_14042025\\taskmanager_14042025\\taskmanager_api\\taskmanager_api\\controllers\\taskscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A8D8E673-95C2-4DF9-A563-6F88D2AA3DBB}|TaskManager_api.csproj|solutionrelative:controllers\\taskscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A8D8E673-95C2-4DF9-A563-6F88D2AA3DBB}|TaskManager_api.csproj|c:\\users\\kaustubh.dahake\\desktop\\forpatch\\uat_deploymentpatch\\taskmanager_14042025\\taskmanager_14042025\\taskmanager_api\\taskmanager_api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -54,11 +54,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "LoginDto.cs",
               "DocumentMoniker": "C:\\Users\\Kaustubh.Dahake\\Desktop\\Forpatch\\UAT_Deploymentpatch\\TaskManager_14042025\\TaskManager_14042025\\TaskManager_api\\TaskManager_api\\Models\\LoginDto.cs",
               "RelativeDocumentMoniker": "Models\\LoginDto.cs",
@@ -66,12 +66,11 @@
               "RelativeToolTip": "Models\\LoginDto.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-20T10:28:08.138Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-20T10:28:08.138Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 3,
               "Title": "AuthResult.cs",
               "DocumentMoniker": "C:\\Users\\Kaustubh.Dahake\\Desktop\\Forpatch\\UAT_Deploymentpatch\\TaskManager_14042025\\TaskManager_14042025\\TaskManager_api\\TaskManager_api\\Models\\AuthResult.cs",
               "RelativeDocumentMoniker": "Models\\AuthResult.cs",
@@ -84,7 +83,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "TaskService.cs",
               "DocumentMoniker": "C:\\Users\\Kaustubh.Dahake\\Desktop\\Forpatch\\UAT_Deploymentpatch\\TaskManager_14042025\\TaskManager_14042025\\TaskManager_api\\TaskManager_api\\Services\\TaskService.cs",
               "RelativeDocumentMoniker": "Services\\TaskService.cs",
@@ -97,26 +96,26 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 0,
               "Title": "TasksController.cs",
               "DocumentMoniker": "C:\\Users\\Kaustubh.Dahake\\Desktop\\Forpatch\\UAT_Deploymentpatch\\TaskManager_14042025\\TaskManager_14042025\\TaskManager_api\\TaskManager_api\\Controllers\\TasksController.cs",
               "RelativeDocumentMoniker": "Controllers\\TasksController.cs",
               "ToolTip": "C:\\Users\\Kaustubh.Dahake\\Desktop\\Forpatch\\UAT_Deploymentpatch\\TaskManager_14042025\\TaskManager_14042025\\TaskManager_api\\TaskManager_api\\Controllers\\TasksController.cs",
               "RelativeToolTip": "Controllers\\TasksController.cs",
-              "ViewState": "AQIAAHoAAAAAAAAAAAAowIoAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAIQAAAAkAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-16T11:25:30.068Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "AuthService.cs",
               "DocumentMoniker": "C:\\Users\\Kaustubh.Dahake\\Desktop\\Forpatch\\UAT_Deploymentpatch\\TaskManager_14042025\\TaskManager_14042025\\TaskManager_api\\TaskManager_api\\Services\\AuthService.cs",
               "RelativeDocumentMoniker": "Services\\AuthService.cs",
               "ToolTip": "C:\\Users\\Kaustubh.Dahake\\Desktop\\Forpatch\\UAT_Deploymentpatch\\TaskManager_14042025\\TaskManager_14042025\\TaskManager_api\\TaskManager_api\\Services\\AuthService.cs",
               "RelativeToolTip": "Services\\AuthService.cs",
-              "ViewState": "AQIAACIAAAAAAAAAAAAuwEUAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAzAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-19T18:04:18.162Z",
               "EditorCaption": ""
@@ -131,8 +130,7 @@
               "RelativeToolTip": "Controllers\\AuthController.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-19T18:04:12.593Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-19T18:04:12.593Z"
             },
             {
               "$type": "Document",
@@ -144,12 +142,11 @@
               "RelativeToolTip": "Program.cs",
               "ViewState": "AQIAACIAAAAAAAAAAAAuwDYAAAAfAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-16T11:21:23.398Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-16T11:21:23.398Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\Kaustubh.Dahake\\Desktop\\Forpatch\\UAT_Deploymentpatch\\TaskManager_14042025\\TaskManager_14042025\\TaskManager_api\\TaskManager_api\\appsettings.json",
               "RelativeDocumentMoniker": "appsettings.json",
@@ -162,7 +159,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "TaskItem.cs",
               "DocumentMoniker": "C:\\Users\\Kaustubh.Dahake\\Desktop\\Forpatch\\UAT_Deploymentpatch\\TaskManager_14042025\\TaskManager_14042025\\TaskManager_api\\TaskManager_api\\Models\\TaskItem.cs",
               "RelativeDocumentMoniker": "Models\\TaskItem.cs",
@@ -170,12 +167,11 @@
               "RelativeToolTip": "Models\\TaskItem.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-20T10:28:11.767Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-20T10:28:11.767Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "User.cs",
               "DocumentMoniker": "C:\\Users\\Kaustubh.Dahake\\Desktop\\Forpatch\\UAT_Deploymentpatch\\TaskManager_14042025\\TaskManager_14042025\\TaskManager_api\\TaskManager_api\\Models\\User.cs",
               "RelativeDocumentMoniker": "Models\\User.cs",
@@ -183,12 +179,11 @@
               "RelativeToolTip": "Models\\User.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-20T10:28:14.323Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-20T10:28:14.323Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "AppDbContext.cs",
               "DocumentMoniker": "C:\\Users\\Kaustubh.Dahake\\Desktop\\Forpatch\\UAT_Deploymentpatch\\TaskManager_14042025\\TaskManager_14042025\\TaskManager_api\\TaskManager_api\\Data\\AppDbContext.cs",
               "RelativeDocumentMoniker": "Data\\AppDbContext.cs",
@@ -196,8 +191,7 @@
               "RelativeToolTip": "Data\\AppDbContext.cs",
               "ViewState": "AQIAAA4AAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-16T11:33:54.97Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-16T11:33:54.97Z"
             }
           ]
         }
